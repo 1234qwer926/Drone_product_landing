@@ -314,13 +314,13 @@ h3{
     background-image: url("Images/product1.webp");
 }
 #id2{
-    /* background-image: url("Images/main4.jpg"); */
+    background-image: url("Images/main4.jpg");
 }
 #id3{
-    /* background-image: url("Images/main2.jpg"); */
+    background-image: url("Images/main2.jpg");
 }
 #id4{
-    /* background-image: url("Images/main3.jpg"); */
+    background-image: url("Images/main3.jpg");
 }
 .controls .carousel-control-prev{
     top: 110% !important;
